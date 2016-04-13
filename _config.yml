@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
+title: Jonathan Pinlac
+subtitle: Mens sana in corpore sano
+description: A personal blog about life, programming, fitness, and all of the things
+author: Jonathan Pinlac
+language: En
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: http://jonathan.pinlac.net
+root: /blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
