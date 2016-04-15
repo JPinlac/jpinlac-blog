@@ -1,5 +1,5 @@
 theme='hugo_theme_robust'
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://jonathan.pinlac.net/blog/"
 languageCode = "en-us"
 title = "Jonathan Pinlac's Blog"
 author = "Jonathan Pinlac"
