@@ -2,11 +2,16 @@
 date = "2016-04-15T12:16:35-04:00"
 draft = true
 title = "What is this blog about?"
-tags = [
+Tags = [
 	"journal",
-	"project"]
-categories = [
-	"Journal"]
+	"project"
+	]
+Categories = [
+	"Journal"
+	]
+Dicks = [
+	"mine"
+	]
 +++
 
 I created this blog as a programming project and an introduction to blogging. It won't be a super focused blog on any single niche, but more of an amalgamation of all my interests. I hope to keep a journal of my journey as a developer, and my life in general.

@@ -7,3 +7,7 @@ copyright = "© Copyright 2016, Jonathan Pinlac."
 
 [params]
 	disqusShortname = "jpinlac"
+
+[taxonomies]
+	tag = "Tags"
+	category = "Categories"
