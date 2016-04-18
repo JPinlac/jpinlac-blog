@@ -1,7 +1,7 @@
 +++
 date = "2016-04-15T12:16:35-04:00"
 draft = true
-title = "What is this blog about?"
+title = "What is This Blog About?"
 tags = [
 	"journal",
 	"project"]
